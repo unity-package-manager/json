@@ -1,0 +1,12 @@
+{
+    "name": "com.kunlun.json",
+    "displayName": "KLFramework KLJSON",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "description": "JSON Interface",
+    "author": {
+        "name": "Kakashi",
+        "email": "john.cha@qq.com",
+        "url": "http://10.6.10.243:9999/technical-center/json"
+    }
+}
